@@ -398,11 +398,11 @@ This project is licensed under the MIT License.
 
 Aspiring **Amazon SDE-1** | Full Stack Developer | AI Enthusiast | Problem Solver
 
-📧 Email: your-email@example.com
+📧 Email: your-mukatiagarkarpratap@gmail.com.com
 
-💼 LinkedIn: https://linkedin.com/in/YOUR_USERNAME
+💼 LinkedIn: https://linkedin.com/in/Mukati Agarkar Pratap
 
-🐙 GitHub: https://github.com/YOUR_USERNAME
+🐙 GitHub: https://github.com/mukatiagarkarpratap
 
 ---
 
